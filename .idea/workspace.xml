@@ -82,8 +82,26 @@
       <option name="project" value="LOCAL" />
       <updated>1693603529276</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test">
+      <created>1693603731713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693603731714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
@@ -94,26 +112,31 @@
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
     <state x="2797" y="585" key="#Notifications/68.25.2172.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693602289145" />
-    <state x="2830" y="524" key="CommitChangelistDialog2" timestamp="1693603529022">
+    <state x="2830" y="524" key="CommitChangelistDialog2" timestamp="1693603731423">
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
+    <state x="2830" y="524" key="CommitChangelistDialog2/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603731423" />
     <state x="2830" y="524" key="CommitChangelistDialog2/66.25.2174.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603529022" />
     <state x="2830" y="524" key="CommitChangelistDialog2/68.25.2172.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693601629139" />
-    <state width="684" height="185" key="GridCell.Tab.0.bottom" timestamp="1693603511256">
+    <state width="1369" height="185" key="GridCell.Tab.0.bottom" timestamp="1693603733941">
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
+    <state width="1369" height="185" key="GridCell.Tab.0.bottom/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603733941" />
     <state width="684" height="185" key="GridCell.Tab.0.bottom/66.25.2174.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603511256" />
-    <state width="684" height="185" key="GridCell.Tab.0.center" timestamp="1693603511255">
+    <state width="1369" height="185" key="GridCell.Tab.0.center" timestamp="1693603733940">
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
+    <state width="1369" height="185" key="GridCell.Tab.0.center/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603733940" />
     <state width="684" height="185" key="GridCell.Tab.0.center/66.25.2174.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603511255" />
-    <state width="684" height="185" key="GridCell.Tab.0.left" timestamp="1693603511254">
+    <state width="1369" height="185" key="GridCell.Tab.0.left" timestamp="1693603733940">
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
+    <state width="1369" height="185" key="GridCell.Tab.0.left/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603733940" />
     <state width="684" height="185" key="GridCell.Tab.0.left/66.25.2174.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603511254" />
-    <state width="684" height="185" key="GridCell.Tab.0.right" timestamp="1693603511256">
+    <state width="1369" height="185" key="GridCell.Tab.0.right" timestamp="1693603733941">
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
+    <state width="1369" height="185" key="GridCell.Tab.0.right/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603733941" />
     <state width="684" height="185" key="GridCell.Tab.0.right/66.25.2174.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603511256" />
     <state x="2706" y="558" key="SettingsEditor" timestamp="1693601533545">
       <screen x="2240" y="319" width="1920" height="1055" />
