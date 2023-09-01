@@ -23,6 +23,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="2UoMVST1mPrkulz41KVmmoBp6od" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693604265660</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="This is a test Commit Message">
+      <created>1693604610225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693604610225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,10 +135,10 @@
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
     <state x="2797" y="585" key="#Notifications/68.25.2172.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693602289145" />
-    <state x="2830" y="524" key="CommitChangelistDialog2" timestamp="1693604265426">
+    <state x="2830" y="524" key="CommitChangelistDialog2" timestamp="1693604609988">
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
-    <state x="2830" y="524" key="CommitChangelistDialog2/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693604265426" />
+    <state x="2830" y="524" key="CommitChangelistDialog2/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693604609988" />
     <state x="2830" y="524" key="CommitChangelistDialog2/66.25.2174.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603529022" />
     <state x="2830" y="524" key="CommitChangelistDialog2/68.25.2172.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693601629139" />
     <state x="3064" y="820" key="Github.ShareDialog" timestamp="1693604575542">
@@ -161,10 +169,14 @@
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
     <state x="2706" y="558" key="SettingsEditor/68.25.2172.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693601533545" />
-    <state x="2797" y="659" key="Vcs.Push.Dialog.v2" timestamp="1693604336413">
+    <state x="2797" y="659" key="Vcs.Push.Dialog.v2" timestamp="1693604674040">
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
-    <state x="2797" y="659" key="Vcs.Push.Dialog.v2/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693604336413" />
+    <state x="2797" y="659" key="Vcs.Push.Dialog.v2/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693604674040" />
     <state x="2797" y="659" key="Vcs.Push.Dialog.v2/66.25.2174.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603605506" />
+    <state x="2986" y="843" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1693604653090">
+      <screen x="2240" y="319" width="1920" height="1055" />
+    </state>
+    <state x="2986" y="843" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.25.2178.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693604653090" />
   </component>
 </project>
