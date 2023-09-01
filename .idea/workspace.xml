@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfdd6e11-0761-415f-816b-7b46af50d4a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1693601502641</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1693603529276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693603529276</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -93,9 +94,10 @@
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
     <state x="2797" y="585" key="#Notifications/68.25.2172.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693602289145" />
-    <state x="2830" y="524" key="CommitChangelistDialog2" timestamp="1693601629139">
+    <state x="2830" y="524" key="CommitChangelistDialog2" timestamp="1693603529022">
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
+    <state x="2830" y="524" key="CommitChangelistDialog2/66.25.2174.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603529022" />
     <state x="2830" y="524" key="CommitChangelistDialog2/68.25.2172.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693601629139" />
     <state width="684" height="185" key="GridCell.Tab.0.bottom" timestamp="1693603511256">
       <screen x="2240" y="319" width="1920" height="1055" />
@@ -117,5 +119,9 @@
       <screen x="2240" y="319" width="1920" height="1055" />
     </state>
     <state x="2706" y="558" key="SettingsEditor/68.25.2172.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693601533545" />
+    <state x="2797" y="659" key="Vcs.Push.Dialog.v2" timestamp="1693603605506">
+      <screen x="2240" y="319" width="1920" height="1055" />
+    </state>
+    <state x="2797" y="659" key="Vcs.Push.Dialog.v2/66.25.2174.1235/2240.319.1920.1055@2240.319.1920.1055" timestamp="1693603605506" />
   </component>
 </project>
